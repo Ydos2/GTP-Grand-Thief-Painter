@@ -23,4 +23,4 @@ Cameron Gassedat<br />
 https://github.com/CameronGassedat <br />
 
 ## Screenshot
-![screenshot](https://github.com/Ydos2/Desolation/blob/master/Doc/Capture_1.PNG)
+![screenshot](https://github.com/Ydos2/GTP---Grand-Thief-Painter/blob/master/Doc/Capture_1.PNG)
